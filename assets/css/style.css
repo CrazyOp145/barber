@@ -1193,6 +1193,12 @@ section {
   color: #444444;
   border-color: #ffffff;
 }
+
+.btn-booking{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
 /*------------------------------------*\
     #FORMS
 \*------------------------------------*/
